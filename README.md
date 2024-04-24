@@ -26,10 +26,12 @@
 # 📊 GitHub Stats:
 
 <!-- github stats badge -->
+## Github Stats  
 <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=Lavaboy202&theme=dark&hide)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=LavaBoy202&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=Lavaboy202&theme=dark&hide"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavaBoy202&theme=dark"/>
+</div>  
+<div align="center">
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LavaBoy202&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
