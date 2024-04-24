@@ -29,7 +29,7 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lavaboy202&theme=dark&hide"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavaBoy202&theme=dark" width = "500px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavaBoy202&theme=dark" width = "450px"/>
 </div>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavaBoy202&theme=dark&include_all_commits=true&count_private=true&layout=compact" width="500px/>
 
